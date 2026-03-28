@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Eu sou o Matheus 👋
 
-<!--
-**MatheuxBr/matheuxbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Computação e Cibersegurança, com foco em segurança de aplicações, infraestrutura em nuvem e desenvolvimento seguro.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 🎓 Cursando o 5º ano de **Engenharia de Computação** e Bacharelado em **Cibersegurança**.
+- 🛡️ Foco atual: **Ethical Hacking**, Análise de Vulnerabilidades e Cloud Security.
+- 💻 Desenvolvendo projetos envolvendo **IoT (ESP32)**, **Microsoft Azure**, **Java** e **Angular**.
+- 📚 Atualmente estudando para a certificação **Ethical Hacker (Cisco)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+- **Segurança & Redes:** TCP/IP, DNS, Análise de Vulnerabilidades
+- **Linguagens:** Python, Java, C/C++, TypeScript, Shell Scripting
+- **Cloud & Infraestrutura:** Microsoft Azure, Linux, Windows, Git
+
+### 📫 Como me encontrar
+- LinkedIn: [Coloque seu link do LinkedIn aqui]
+- Email: [Coloque seu email aqui]
